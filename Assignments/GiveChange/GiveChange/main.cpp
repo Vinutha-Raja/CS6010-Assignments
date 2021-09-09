@@ -31,4 +31,8 @@ int main(int argc, const char * argv[]) {
     std::cout << "\ncents: " << diff;
   
     return 0;
+    // Range of dimes = 0-2
+    // Range of nickels = 0-1
+    // Range of pennies = 0-4
+    // Range of quarters = 0-any.
 }
