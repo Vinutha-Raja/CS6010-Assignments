@@ -1,0 +1,19 @@
+Title: Moby Dick; or The Whale
+
+Author: Herman Melville
+
+Release Date: December 25, 2008
+
+To determine the title, look for the exact word: "Title:". That should mark the beginning of the title. The title should include everything from there up to "Author:". Similarly, the author should start on the next word after that, and end right before "Release Date:".
+
+There is no guarantee that the book will follow this format, so you must also be prepared to print "unknown" for the title and author. If you do not find the appropriate key words, consider the title and author as unknown. If you find one of the beginning marker words but not the end within 100 words (e.g., you find "Title:", but not "Author:" within the next 100 words), then it is unknown.
+
+NOTE: This algorithm for determining the title and author is not perfect, and may result in false-positives. For example, some books also have an "Illustrator" field, which appears in between the Author and Release Date. You do not need to worry about this, just let it report something incorrect.
+
+To determine the title, look for the exact word: "Title:". That should mark the beginning of the title. The title should include everything from there up to "Author:". Similarly, the author should start on the next word after that, and end right before "Release Date:".
+
+There is no guarantee that the book will follow this format, so you must also be prepared to print "unknown" for the title and author. If you do not find the appropriate key words, consider the title and author as unknown. If you find one of the beginning marker words but not the end within 100 words (e.g., you find "Title:", but not "Author:" within the next 100 words), then it is unknown.
+
+NOTE: This algorithm for determining the title and author is not perfect, and may result in false-positives. For example, some books also have an "Illustrator" field, which appears in between the Author and Release Date. You do not need to worry about this, just let it report something incorrect.
+
+
